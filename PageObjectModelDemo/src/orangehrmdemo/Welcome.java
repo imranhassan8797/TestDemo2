@@ -16,6 +16,7 @@ public class Welcome {
 	
 	public void clickOnMyInfo() {
 		driver.findElement(myInfo).click();
+		//Test Comment
 	}
 	
 }
